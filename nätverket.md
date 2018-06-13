@@ -30,3 +30,5 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 * Catharina Nyström Höög, Högskolan Dalarna
 
 ## Protokoll
+
+[Protokoll 1],(https://drive.google.com/open?id=1XoBwMKqbrC1-ngneOISTinpdYca80IU1VMf4mYONxCQ)
