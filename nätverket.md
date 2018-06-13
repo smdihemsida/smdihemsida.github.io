@@ -32,3 +32,5 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 ## Protokoll
 
 [Protokoll 1](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+[Protokoll2.pdf](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
