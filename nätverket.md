@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Nationella nätverket för svenska med didaktisk inriktning – SMDI
+##  Nätverket
 
-Nätverket för forskning och forskarutbildning i svenska med didaktisk inriktning startade den 1 januari 2003 med Malmö högskola som värdlärosäte. Därefter var Umeå universitet värdlärosäte 2006-2009, Uppsala universitet 2010-2012 och Göteborgs universitet 2013-2014. Karlstads universitet är värdlärosäte 2015-2016. Det övergripande målet för Nätverket SMDI är att verka för tillväxten av forskning och forskarutbildning inom området svenska med didaktisk inriktning.
-_Nationella nätverket har till syfte att inom svenska med didaktisk inriktning_
-- verka för tillväxten av forskning och forskarutbildning
-- stimulera utvecklingsprojekt inom fältet
-- underlätta kontakter och informationsutbyte mellan verksamma forskare samt mellan forskare och lärare i den allmänna skolan
-- SMDI har även täta kontakter med modersmålsdidaktiska nätverk i övriga nordiska länder.
+I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyrelsen finns också en ledningsgrupp, som sköter stora delar av det praktiska arbetet med nätverket. Nätverksstyrelsen håller årsmöte på våren samt har ett möte i samband med konferensen under höstterminen. SMDI är även en del av det nordiska nätverket i modersmålsdidaktik, NNMF.
+
+# Ledningsgrupp, Karlstad, 2015-2016
+
+* Christina Olin-Scheller, Institutionen för pedagogiska studier, Centrum för språk- och litteraturdidaktik (CSL)
+* Michael Tengberg, Institutionen för pedagogiska studier, Centrum för språk- och litteraturdidaktik (CSL)
+* Marie Tanner, Institutionen för pedagogiska studier
+* Susanne Duek, Institutionen för språk, litteratur och interkultur
+* Birgitta Ljung-Egeland, Institutionen för språk, litteratur och interkultur
