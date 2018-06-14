@@ -31,6 +31,31 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 
 ## Protokoll
 
-[Protokoll 1](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+[Årsmöte SMDI 29 januari 2009](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
 
-[Protokoll2.pdf](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+[Årsmöte SMDI 28 januari 2010](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+[Årsmöte SMDI 20 januari 2011](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+[Årsmöte SMDI januari 2012](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+[Årsmöte SMDI april 2013](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+[Årsmöte SMDI 2014](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+[Årsmöte SMDI maj 2015](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+[Styrelsemöte nov 2015](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+## Verksamhetsberättelser
+
+[Verksamhetsberättelse SMDI 2010](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+
+[Verksamhetsberättelse SMDI 2011](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+
+[Verksamhetsberättelse SMDI 2012](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+
+[Verksamhetsberättelse SMDI 2013-2014](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
