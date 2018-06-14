@@ -5,7 +5,7 @@ layout: default
 # Konferenser inom SMDI
 __Nästa SMDI-konferens__ äger rum på Karlstads universitet november 2016
 
-##Tidigare konferenser
+## Tidigare konferenser
 Nationella forskarskolan i Svenska med didaktisk inriktning (SMDI) inledde sin forskarutbildning hösten 2002. Året efter startade nationella nätverket för Svenska med didaktisk inriktning, ett nätverksprojekt i omedelbar anslutning till forskarskolan. Inom ramen för Nätverkets arbete har nationella forskarkonferenser i Smdi och nordiska i NNMF arrangerats.
 
 __Första nationella konferensen i svenska med didaktisk inriktning (SMDI 1)__
