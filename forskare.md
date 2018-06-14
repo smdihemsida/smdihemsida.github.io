@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 ---
 
 ## Forskare inom nätverket
