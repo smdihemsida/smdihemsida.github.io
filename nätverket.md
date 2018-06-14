@@ -59,3 +59,6 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 
 
 [Verksamhetsberättelse SMDI 2013-2014](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+
+## NNMF:
+SMDI:s representanter i NNMF är Barbro Hagberg Persson, Uppsala universitet och Susanne Staf, Göteborgs universitet. Nordisk nettverk for morsmålsdidaktisk forskning
