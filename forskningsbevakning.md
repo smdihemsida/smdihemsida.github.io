@@ -9,5 +9,7 @@ På uppdrag av Skolverket bevakar SmDi forskning inom fältet språklig kompeten
 Har du tips om avhandlingar, artiklar eller rapporter, så mejla gärna till Christoffer eller Mikael, som sovrar och sammanställer material för spridning via Skolverkets hemsida.
 
 [christoffer.dahl@gu.se](mailto::christoffer.dahl@gu.se)
+
 [mikael.nordenfors@svenska.gu.se](mailto::mikael.nordenfors@svenska.gu.se)
+
 [Skolverkets forskningsbevakningssida](https://www.skolverket.se/skolutveckling/forskning/amnen-omraden/spraklig-kompetens)
