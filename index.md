@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: Test
 ---
 # SMDI – Nationella nätverket för svenska med didaktisk inriktning
 
