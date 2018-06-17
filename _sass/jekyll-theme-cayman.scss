@@ -126,12 +126,13 @@ a {
 
 }
 .bgBtn {
-  background-color: rgb(0, 0, 101);
-  background-size: contain;
-  width: 100vw;
-  height: 5vw;
+  display:block;
+  min-width:140px;
+  height: 50px;
   text-align: center;
-  resize: horizontal;
+  line-height: 50px;
+  color: #fff;
+  background: #2f3036;
 }
 
 .project-name {
