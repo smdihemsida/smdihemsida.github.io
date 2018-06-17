@@ -376,16 +376,16 @@ a {
 /*Responsive Styles*/
 @media screen and (max-width : 760px){
     /*Make dropdown links appear inline*/
-    ul {
+    .bgBtn {
         position: static;
         display: none;
     }
     /*Create vertical spacing*/
-    li {
+    .bgBtn {
         margin-bottom: 1px;
     }
     /*Make all menu links full width*/
-    ul li, li a {
+    .bgBtn, a {
         width: 100%;
     }
 }
