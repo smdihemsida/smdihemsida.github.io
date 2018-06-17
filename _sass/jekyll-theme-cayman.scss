@@ -93,14 +93,12 @@ a {
 }
 
 .page-header {
-  color: $header-heading-color;
+  /*color: $header-heading-color;
   background-color: $header-bg-color;
-  text-align: center;
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
-
-
-
-
+  */
+  background-color: rgb(0,0,101);
+  text-align: center;
 
   @include large {
     padding: 5rem 6rem;
@@ -120,6 +118,7 @@ a {
   background-size: cover;
   width: 100vw;
   height: 23.7vw;
+
   @include large {
     padding: 5rem 6rem;
   }
@@ -131,7 +130,6 @@ a {
   @include small {
     padding: 2rem 1rem;
   }
-
 
 
 
