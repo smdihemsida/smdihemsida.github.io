@@ -17,5 +17,3 @@ layout: pages
 [Literacynätverket](http://www.literacynatverket.se/) <!--Ny hemsida, samma org??-->
 
 [Multimodal literacy practices in L1 - a Nordic Perspective](https://www.sdu.dk/en/Om_SDU/Institutter_centre/Ikv/Forskning/Forskningsprojekter/multiL1)
-
-[Testlänk](www.aftonbladet.se)
