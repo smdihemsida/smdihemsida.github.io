@@ -16,6 +16,8 @@ Här får får du tillgång nästan alla publicerade konfereresrapporter i
 
 [Sjunde nationella konferensen i Malmö 2009](https://drive.google.com/open?id=1ncm6FqApeaKvrzz6qEgh47aPB3VgKNL5)
 
+[Femte nordiska konferensen i modersmålsdidaktik (NNMF 5)](https://drive.google.com/open?id=1vJ-_2UMUs0mALhy79-bASaOYtwfmvE6m)
+
 [Sjätte nationella konferensen i Uppsla 2008](https://drive.google.com/open?id=1s9HMd_CufRzVP0yPBR7latxpZKMJSgLt)
 
 [Femte nationella konferensen i Växjö 2007](https://drive.google.com/open?id=1Xu3SzDK5A1fm60H-JLPVil8zH3bAZYti)
