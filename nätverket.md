@@ -14,20 +14,22 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 * Susanne Duek, Institutionen för språk, litteratur och interkultur
 * Birgitta Ljung-Egeland, Institutionen för språk, litteratur och interkultur
 
-## Nätverksstyrelse 2015-2016
+## Nätverksstyrelse 2019–2020
 
-* Kent Adelmann, Malmö högskola
-* Maria Lim Falk, Stockholms universitet
-* Berit Lundgren, Umeå universitet
-* Bengt Göran Martinsson, Linköpings universitet
-* Christian Mehrstam, Högskolan Väst
+* Theres Bellander, Stockholms universitet
+* Lotta Bergman, Malmö högskola
 * Ewa Bergh Nestlog, Linnéuniversitetet
+* Yvonne Hallesson, Uppsala universitet
+* Carina Hermansson, Umeå universitet
+* Eva Hultin, Uppsala universitet
+* Maritha Johansson, Linköpings universitet
+* Ola Nordenfors, Göteborgs universitet
+* Anna Nordenstam, Luleå tekniska universitet
+* Eva Nordlinder, Mittuniversitetet
 * Christina Olin-Scheller, Karlstads universitet
-* Anne Palmér, Uppsala universitet
-* Anders Sigrell, Lunds universitet
-* Anna Nordenstam, Luleå universiet
-* Per Holmberg, Göteborgs universiet
-* Catharina Nyström Höög, Högskolan Dalarna
+* Anders Sigrell, Lunds univesitet
+* Anita Varga, Högskolan Väst
+
 
 ## Protokoll
 
