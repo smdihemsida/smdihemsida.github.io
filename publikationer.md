@@ -3,7 +3,7 @@ layout: pages
 ---
 # Konferensrapporter
 
-Här får får du tillgång nästan alla publicerade konfereresrapporter i
+Här får får du tillgång till nästan alla publicerade konfereresrapporter i
  PDF-format.
 
 
