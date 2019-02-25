@@ -2,14 +2,10 @@
 layout: pages
 ---
 
-# SMDI bevakar forskning
+# Aktuellt
 
-På uppdrag av Skolverket bevakar SmDi forskning inom fältet språklig kompetens. Det innefattar bland annat forskning om literacy samt svenska med didaktisk inriktning. Christoffer Dahl och Mikael Nordenfors, båda Göteborgs universitet, bevakar området tillsammans.
+Under denna rubrik listas kommande konferenser, utlysningar med mera som har relevans för nätverkets medlemmar.
 
-Har du tips om avhandlingar, artiklar eller rapporter, så mejla gärna till Christoffer eller Mikael, som sovrar och sammanställer material för spridning via Skolverkets hemsida.
+[NNMF7 i Trondheim 23-24 oktober 2019](https://www.ntnu.no/nnmf7)
 
-[christoffer.dahl@gu.se](mailto::christoffer.dahl@gu.se)
-
-[mikael.nordenfors@svenska.gu.se](mailto::mikael.nordenfors@svenska.gu.se)
-
-[Skolverkets forskningsbevakningssida](https://www.skolverket.se/skolutveckling/forskning/amnen-omraden/spraklig-kompetens)
+[ASLA-symposiet 23-24 april 2020 i Göteborg](https://asla2020.wordpress.com/)
