@@ -31,19 +31,19 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 
 ## Protokoll
 
-[Årsmöte SMDI 2009](https://drive.google.com/open?id=1ET5L63_Y0IfibY0HKg61n5uTWs1ft1QN)
+[Årsmöte 2009](https://drive.google.com/open?id=1ET5L63_Y0IfibY0HKg61n5uTWs1ft1QN)
 
-[Årsmöte SMDI 2010](https://drive.google.com/open?id=1xyixM1tEyx3LCM_WNOGnuBlW2Icrt8Xa)
+[Årsmöte 2010](https://drive.google.com/open?id=1xyixM1tEyx3LCM_WNOGnuBlW2Icrt8Xa)
 
-[Årsmöte SMDI 2011](https://drive.google.com/open?id=1zcm-ToiicLsE4Q9bZCUixE7ptW_2a4ue)
+[Årsmöte 2011](https://drive.google.com/open?id=1zcm-ToiicLsE4Q9bZCUixE7ptW_2a4ue)
 
-[Årsmöte SMDI 2012](https://drive.google.com/open?id=1gRlReIaP6MdW-68MPXNzDLfAFQI4S8sU)
+[Årsmöte 2012](https://drive.google.com/open?id=1gRlReIaP6MdW-68MPXNzDLfAFQI4S8sU)
 
-[Årsmöte SMDI 2013](https://drive.google.com/open?id=1KkS9NMOvjlJ5Oinzhj_5FUKY3MawSe_y)
+[Årsmöte 2013](https://drive.google.com/open?id=1KkS9NMOvjlJ5Oinzhj_5FUKY3MawSe_y)
 
-[Årsmöte SMDI 2014](https://drive.google.com/open?id=1MY9M8qiSbFrDlA21RKfDbZzTE5NE30Ee)
+[Årsmöte 2014](https://drive.google.com/open?id=1MY9M8qiSbFrDlA21RKfDbZzTE5NE30Ee)
 
-[Årsmöte SMDI 2015](https://drive.google.com/open?id=1Azr1gHh3cdCEAzjQjyuY5xL3tttf2xHm)
+[Årsmöte 2015](https://drive.google.com/open?id=1Azr1gHh3cdCEAzjQjyuY5xL3tttf2xHm)
 
 [Årsmöte 2016](https://drive.google.com/open?id=13wjhJr1_xqK7eIGxb-7wUXsUHs3sPlcc)
 
