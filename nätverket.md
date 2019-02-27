@@ -59,7 +59,7 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 [Verksamhetsberättelse 2011](https://drive.google.com/open?id=1OYedZPn6o284YH3dp6QdNKuE-V0w_1jI)
 
 
-[Verksamhetsberättelse SMDI 2013-2014](https://drive.google.com/open?id=1edqmBKVYCnEqEzSWzHY1PjL_q0VAi8Bw)
+[Verksamhetsberättelse 2013-2014](https://drive.google.com/open?id=1edqmBKVYCnEqEzSWzHY1PjL_q0VAi8Bw)
 
 ## NNMF:
 SMDI:s representant i NNMF är Anna Nordenstam, Luleå tekniska universitet
