@@ -70,7 +70,7 @@ Plenartalare: professor Caroline Liberg, Uppsala universitet, docent Christina O
 __Elfte nationella konferensen i svenska med didaktisk inriktning (SMDI 11); Fjärde nordiska konferensen i modersmålsdidaktik (NNMF 4)__
 Göteborg, 5-6 december 2013
 Tema: Mångfaldens möjligheter
-Plenartalare: professor Hilary Janks, University of the Witwatersrand, Johannesburg,
+Plenartalare: professor Hilary Janks, University of the Witwatersrand, Johannesburg, Professor Magnus Persson, Malmö universitet
 [Konferensvolym](https://drive.google.com/open?id=1rYrs2qbAugG-FPNsxqRQgxROeHzCP7zz)
 
 __Femte nordiska konferensen i modersmålsdidaktik (NNMF 5)__
