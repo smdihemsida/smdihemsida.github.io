@@ -53,16 +53,13 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 
 ## Verksamhetsberättelser
 
-[Verksamhetsberättelse SMDI 2010](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+[Verksamhetsberättelse 2010](https://drive.google.com/open?id=11c-SOFPqGyTK475EndyV5L-NVb6wcQEb)
 
 
-[Verksamhetsberättelse SMDI 2011](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+[Verksamhetsberättelse 2011](https://drive.google.com/open?id=1OYedZPn6o284YH3dp6QdNKuE-V0w_1jI)
 
 
-[Verksamhetsberättelse SMDI 2012](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
-
-
-[Verksamhetsberättelse SMDI 2013-2014](https://drive.google.com/open?id=1Yk-D_pwe2O-vLMKIUc6PqqzUTu6w1Tg2)
+[Verksamhetsberättelse SMDI 2013-2014](https://drive.google.com/open?id=1edqmBKVYCnEqEzSWzHY1PjL_q0VAi8Bw)
 
 ## NNMF:
-SMDI:s representanter i NNMF är Barbro Hagberg Persson, Uppsala universitet och Susanne Staf, Göteborgs universitet. Nordisk nettverk for morsmålsdidaktisk forskning
+SMDI:s representant i NNMF är Anna Nordenstam, Luleå tekniska universitet
