@@ -21,7 +21,7 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 * Carina Hermansson, Umeå universitet
 * Eva Hultin, Uppsala universitet
 * Maritha Johansson, Linköpings universitet
-* Ola Nordenfors, Göteborgs universitet
+* Mikael Nordenfors, Göteborgs universitet
 * Anna Nordenstam, Luleå tekniska universitet
 * Eva Nordlinder, Mittuniversitetet
 * Christina Olin-Scheller, Karlstads universitet
