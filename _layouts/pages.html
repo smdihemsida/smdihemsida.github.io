@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <!--<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">-->
     <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+    $('html, "main-content"').animate({
+    scrollTop: ($('.error').first().offset().top)
+},500);
 
   </head>
 
