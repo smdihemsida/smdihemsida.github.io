@@ -11,17 +11,9 @@
     <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
     <script type="text/javascript" src="./lib/jquery-3.3.1.min.js"></script>
     <script type="text/javascript">
-      $('a[href*="#"]').on('click', function(e) {
-      e.preventDefault()
-
-      $('html, body').animate(
-        {
-          scrollTop: $($(this).attr('href')).offset().top,
-        },
-        500,
-        'linear'
-      )
-    })
+       $('html, body').animate({
+        scrollTop: $("#main-content").offset().top
+    }, 1000);
     </script>
   </head>
 
