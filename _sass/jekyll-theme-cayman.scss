@@ -188,6 +188,10 @@ a {
     font-size: 1rem;
     width: 100%;
   }
+  
+  @media only screen and (max-width: 768px) {
+    width: 100%;  
+  }
 
   img {
     max-width: 100%;
