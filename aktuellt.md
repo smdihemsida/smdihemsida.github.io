@@ -6,9 +6,7 @@ layout: pages
 
 Under denna rubrik listas kommande konferenser, utlysningar med mera som har relevans för nätverkets medlemmar.
 
-[Två doktorandtjänster vid Linköpings universitet. Ansökan senast 26 mars 2019](https://liu.se/jobba-pa-liu/lediga-jobb?rmpage=job&rmjob=10333&rmlang=SE)
-
-[12th ARLE conference, June 26-28, 2019](https://www.arle2019.com/)
+[Doktorand i humanistiska studier med inriktning svenska språket eller litteraturvetenskap vid Örebro universitet. Sista ansökningsdag 30 september 2019](https://www.oru.se/jobba-hos-oss/lediga-jobb/jobbannons/?jid=20190309)
 
 [NNMF7 i Trondheim 23-24 oktober 2019](https://www.ntnu.no/nnmf7)
 
