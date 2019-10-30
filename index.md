@@ -10,3 +10,5 @@ __Nationella nätverket har till syfte att inom svenska med didaktisk inriktning
 - stimulera utvecklingsprojekt inom fältet
 - underlätta kontakter och informationsutbyte mellan verksamma forskare samt mellan forskare och lärare i den allmänna skolan
 - SMDI har även täta kontakter med modersmålsdidaktiska nätverk i övriga nordiska länder.
+
+__Läs mer om forskning inom Svenska med didaktisk inriktning__
