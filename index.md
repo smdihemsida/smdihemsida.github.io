@@ -12,3 +12,4 @@ __Nationella nätverket har till syfte att inom svenska med didaktisk inriktning
 - SMDI har även täta kontakter med modersmålsdidaktiska nätverk i övriga nordiska länder.
 
 __Läs mer om forskning inom Svenska med didaktisk inriktning__
+Litteraturundervisning som motståndets didaktik. Om förhållandet universitetsämne, ämnesdidaktik och skolämne [(Martinsson 2012)] (https://drive.google.com/open?id=1n1pO5Eh_woVy1hXYf-QHsVBHZqZ7IFbo)
