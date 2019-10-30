@@ -25,7 +25,7 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 * Anna Nordenstam, Luleå tekniska universitet
 * Eva Nordlinder, Mittuniversitetet
 * Christina Olin-Scheller, Karlstads universitet
-* Anders Sigrell, Lunds univesitet
+* Anders Sigrell, Lunds universitet
 * Anita Varga, Högskolan Väst
 
 
