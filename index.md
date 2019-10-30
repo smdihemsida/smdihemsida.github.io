@@ -17,4 +17,4 @@ Litteraturundervisning som motståndets didaktik. Om förhållandet universitets
 
 Vilken forskning bedrivs egentligen inom forskningsfältet svenska med didaktiskt inriktning? [(Skar & Tengberg 2014)](https://drive.google.com/open?id=1aVyJP3g5YEs98kcHGY-wJ0DczFzeq19O)
 
-Svenska med didaktisk inriktning. Ett forskningsområde i rörelse. [(Holmberg & Nordenstam)](https://drive.google.com/open?id=1o_SQfhI-UBTlP4bLfmyTeq1zIXMmankC)
+Svenska med didaktisk inriktning. Ett forskningsområde i rörelse. [(Holmberg & Nordenstam 2016)](https://drive.google.com/open?id=1o_SQfhI-UBTlP4bLfmyTeq1zIXMmankC)
