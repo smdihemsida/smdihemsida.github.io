@@ -9,7 +9,7 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 ## Ledningsgrupp, Malmö universitet, 2019-2020
 
 * Magnus Persson, magnus.persson@mau.se
-* Lotta Bergman, lotta.bergman@mau.se
+* Cecilia Olsson Jers, cecilia.olsson_jers@mau.se
 * Pia Nygård Larsson, pia.nygard-larsson@mau.se 
 
 ## Nätverksstyrelse 2019–2020
