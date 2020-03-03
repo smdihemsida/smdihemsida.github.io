@@ -15,13 +15,13 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 ## Nätverksstyrelse 2019–2020
 
 * Theres Bellander, Stockholms universitet
-* Pia Nygård Larsson, Malmö universitet
-* Ewa Bergh Nestlog, Linnéuniversitetet
 * Yvonne Hallesson, Uppsala universitet
 * Carina Hermansson, Umeå universitet
 * Maritha Johansson, Linköpings universitet
+* Ewa Bergh Nestlog, Linnéuniversitetet
 * Anna Nordenstam, Luleå tekniska universitet
 * Eva Nordlinder, Mittuniversitetet
+* Pia Nygård Larsson, Malmö universitet
 * Christina Olin-Scheller, Karlstads universitet
 * Anders Sigrell, Lunds universitet
 * Ann-Christin Randahl, Göteborgs universitet
