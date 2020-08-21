@@ -8,6 +8,8 @@ Här får får du tillgång till nästan alla publicerade konfereresrapporter i
 
 
 
+[Trettonde nationella konferensen i Linköping 2018](https://drive.google.com/file/d/1XMQ693KXa-UWFFMH6XEfMG6eyLyApVX2/view?usp=sharing)
+
 [Tolfte nationella konferensen i Karlstad 2016](https://drive.google.com/open?id=1NswyteLfcA9qzZpzSVrCsBcUeVoaM0NO)
 
 [Femte nordiska konferensen i modersmålsdidaktik i Vasa 2015 (NNMF 5)](https://drive.google.com/open?id=1vJ-_2UMUs0mALhy79-bASaOYtwfmvE6m)
