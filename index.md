@@ -18,3 +18,7 @@ Litteraturundervisning som motståndets didaktik. Om förhållandet universitets
 Vilken forskning bedrivs egentligen inom forskningsfältet svenska med didaktiskt inriktning? [(Skar & Tengberg 2014)](https://drive.google.com/open?id=1aVyJP3g5YEs98kcHGY-wJ0DczFzeq19O)
 
 Svenska med didaktisk inriktning. Ett forskningsområde i rörelse. [(Holmberg & Nordenstam 2016)](https://drive.google.com/open?id=1o_SQfhI-UBTlP4bLfmyTeq1zIXMmankC)
+
+On the emergence of the L1 research field. A comparative study of PhD abstracts in the Nordic countries 2000–2017. [(Per Holmberg, Ellen Krogh, Anna Nordenstam, Sylvi Penne, Dag Skarstein et al 2019)](https://drive.google.com/file/d/1-Gpt4pny-O3GgsK2n7qBQuCwsLAFy2vk/view?usp=sharing)
+
+Anna Nordenstam & Per Holmberg, "Profession, praktikfält och pengar", i Litteraturdidaktik: Språkämnen i samverkan, red. Ylva Lindberg och Anette Svensson,  Stockholm: Natur & kultur, 2020, s. 187–199.
