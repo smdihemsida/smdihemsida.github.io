@@ -6,11 +6,10 @@ layout: pages
 
 I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyrelsen finns också en ledningsgrupp, som sköter stora delar av det praktiska arbetet med nätverket. Nätverksstyrelsen håller årsmöte på våren samt har ett möte i samband med konferensen under höstterminen. SMDI är även en del av det nordiska nätverket i modersmålsdidaktik, NNMF.
 
-## Ledningsgrupp, Malmö universitet, 2019-2020
+## Ledningsgrupp, Lunds universitet, 2021-2023
 
-* Magnus Persson, magnus.persson@mau.se
-* Cecilia Olsson Jers, cecilia.olsson_jers@mau.se
-* Pia Nygård Larsson, pia.nygard-larsson@mau.se 
+* Anders Sigrell, anders.sigrell@kom.lu.se
+* Sara Santesson, sara.santesson@kom.lu.se 
 
 ## Nätverksstyrelse 2019–2020
 
