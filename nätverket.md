@@ -20,7 +20,7 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 * Ewa Bergh Nestlog, Linnéuniversitetet
 * Anna Nordenstam, Luleå tekniska universitet
 * Eva Nordlinder, Mittuniversitetet
-* Pia Nygård Larsson, Malmö universitet
+* Marie Thavenius, Malmö universitet
 * Christina Olin-Scheller, Karlstads universitet
 * Anders Sigrell, Lunds universitet
 * Ann-Christin Randahl, Göteborgs universitet
