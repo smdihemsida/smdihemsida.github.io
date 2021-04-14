@@ -13,3 +13,5 @@ layout: pages
 [Multimodal literacy practices in L1 - a Nordic Perspective](https://www.sdu.dk/en/Om_SDU/Institutter_centre/Ikv/Forskning/Forskningsprojekter/multiL1)
 
 [The International Association for Research in L1 Education (ARLE)](http://www.arle.be/index.html)
+
+[Litteraturdidaktiskt nätverk](https://ju.se/forskning/forskningsinriktningar/litteraturdidaktiskt-natverk.html)
