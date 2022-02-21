@@ -6,6 +6,5 @@ layout: pages
 
 Under denna rubrik listas kommande konferenser, utlysningar med mera som har relevans för nätverkets medlemmar.
 
-[LDN-konferens 11-12 november 2021 vid högskolan i Kristianstad](https://www.hkr.se/konf-ldn2021)
+Välkomna till den 15:e nationella konferensen i Svenska med didaktisk inriktning i Lund 23-24 november 2022. Temat för årets konferens är Språk och litteratur – en omöjlig eller skön förening? Abstract kan anmälas fram till 1 augusti 2022. Konferensanmälan stänger den 15 september 2022. För fullständig information se [här](https://drive.google.com/file/d/14zWPZ-qVTpAhxe4H98ivPvFX40vD53PA/view?usp=sharing).
 
-[NNMF8 2021 i Uppsala 24-25 november 2021](https://www.nnmf2021.se/)
