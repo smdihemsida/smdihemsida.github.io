@@ -4,26 +4,27 @@ layout: pages
 
 #  Nätverket
 
-I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyrelsen finns också en ledningsgrupp, som sköter stora delar av det praktiska arbetet med nätverket. Nätverksstyrelsen håller årsmöte på våren samt har ett möte i samband med konferensen under höstterminen. SMDI är även en del av det nordiska nätverket i modersmålsdidaktik, NNMF.
+I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyrelsen finns också en ledningsgrupp, som sköter stora delar av det praktiska arbetet med nätverket. Nätverksstyrelsen håller årsmöte på våren samt har ett möte i samband med konferensen under höstterminen. SMDI är även en del av det nordiska nätverket för forskning i förstaspråksdidaktik, NNFF.
 
-## Ledningsgrupp, Lunds universitet, 2021-2023
+## Värdar vid Luleå tekniska universitet, 2023-2024
 
-* Anders Sigrell, anders.sigrell@kom.lu.se
-* Sara Santesson, sara.santesson@kom.lu.se 
+* Caroline Graeske, caroline.graeske@ltu.se
+* Agnes Strandberg, agnes.strandberg@ltu.se 
 
 ## Nätverksstyrelse 2019–2020
 
-* Theres Bellander, Stockholms universitet
+* Helen Asklund, Mittuniversitetet
+* Caroline Graeske, Luleå tekniska universitet 
 * Yvonne Hallesson, Uppsala universitet
-* Carina Hermansson, Umeå universitet
-* Maritha Johansson, Linköpings universitet
-* Ewa Bergh Nestlog, Linnéuniversitetet
-* Anna Nordenstam, Luleå tekniska universitet
-* Eva Nordlinder, Mittuniversitetet
-* Marie Thavenius, Malmö universitet
+* Carina Hermansson, Högskolan i Borås 
+* Annelie Johansson, Linnéuniversitetet
+* Maritha Johansson, Linköping universitet
+* Catharina Nyström Höög, Stockholms universitet
 * Christina Olin-Scheller, Karlstads universitet
+* Ann-Christin Randahl, Göteborgs universitet 
 * Anders Sigrell, Lunds universitet
-* Ann-Christin Randahl, Göteborgs universitet
+* Erika Sturk, Umeå universitet
+* Marie Thavenius, Malmö universitet
 * Anita Varga, Högskolan Väst
 
 
@@ -63,5 +64,5 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 
 [Verksamhetsberättelse 2013-2014](https://drive.google.com/open?id=1edqmBKVYCnEqEzSWzHY1PjL_q0VAi8Bw)
 
-## NNMF:
-SMDI:s representant i NNMF är Anna Nordenstam, Luleå tekniska universitet
+## NNFF:
+SMDI:s representant i NNFF är Anna Nordenstam, Luleå tekniska universitet
