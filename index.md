@@ -3,7 +3,9 @@ layout: pages
 ---
 # SMDI – Nationella nätverket för svenska med didaktisk inriktning
 
-Nätverket för forskning och forskarutbildning i svenska med didaktisk inriktning startade den 1 januari 2003 med Malmö högskola som värdlärosäte. Därefter var Umeå universitet värdlärosäte 2006-2009, Uppsala universitet 2010-2012, Göteborgs universitet 2013-2014, Karlstads universitet 2015-2016 och Linköpings universitet 2017-2018. Malmö universitet är värdlärosäte 2019-2020. Det övergripande målet för Nätverket SMDI är att verka för tillväxten av forskning och forskarutbildning inom området svenska med didaktisk inriktning.
+Nätverket för forskning och forskarutbildning i svenska med didaktisk inriktning startade den 1 januari 2003 med Malmö högskola som värdlärosäte. Därefter var Umeå universitet värdlärosäte 2006-2009, Uppsala universitet 2010-2012, Göteborgs universitet 2013-2014, Karlstads universitet 2015-2016, Linköpings universitet 2017-2018, Malmö universitet 2019-2020 och Lund 2021-2022. Luleå tekniska universitet är värdlärosäte 2023-2024.
+
+Det övergripande målet för Nätverket SMDI är att verka för tillväxten av forskning och forskarutbildning inom området svenska med didaktisk inriktning.
 
 __Nationella nätverket har till syfte att inom svenska med didaktisk inriktning__
 - verka för tillväxten av forskning och forskarutbildning
