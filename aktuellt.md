@@ -6,5 +6,5 @@ layout: pages
 
 Under denna rubrik listas kommande konferenser, utlysningar med mera som har relevans för nätverkets medlemmar.
 
-Välkomna till den 15:e nationella konferensen i Svenska med didaktisk inriktning i Lund 23-24 november 2022. Temat för årets konferens är Språk och litteratur – en omöjlig eller skön förening? Ett aktuellt program är nu tillgängligt. För fullständig information se [här](https://sv-se.invajo.com/event/smdikonferens/smdikonferens).
+Under 2023–2024 är Luleå tekniska universitet värdlärosäte för nätverket.
 
