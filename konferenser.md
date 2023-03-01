@@ -93,5 +93,13 @@ Linköping 22–23 november 2018
 Tema: Bildning, utbildning, fortbildning
 Plenartalare, professor Cristina Vischer Bruns, LaGuardia Community College/CUNY, New York, professor Per Ledin, Södertörns högskola, docent Gunilla Molloy, Stockholms universitet. 
 
+__Fjortonde nationella konferensen i svenska med didaktisk inriktning (SMDI 14)__ 
+Malmö 18–19 november 2020. 
+Tema: Didaktiska perspektiv på språk och litteratur i en globaliserad värld. 
+Plenartalare: professor emerita Margareta Petersson, professor Nancy H. Hornberger, University of Pennsylvania, professor Tommaso M. Milani, Göteborgs universitet.
 
+__Femtonde nationella konferensen i svenska med didaktisk inriktning (SMDI 15)__ 
+Lund 23–24 november 2022.
+Tema: Språk och litteratur – en omöjlig eller skön förening? 
+Plenartalare: professor Jonas Bakken, Universitet i Oslo, professor Ylva Lindberg, Högskolan i Jönköping, professor Nikolaj Elf, Syddansk universitet.
 
