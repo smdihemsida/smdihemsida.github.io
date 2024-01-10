@@ -54,6 +54,8 @@ I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyre
 
 [Årsmöte 2022](https://drive.google.com/file/d/1j4pWf6odk6Li_QcpjtaOJF1zdqxZMZGU/view?usp=share_link)
 
+[Årsmöte 2023](https://drive.google.com/file/d/1adriYbxUHQba24siMPFFeKV_EPClTgI1/view?usp=drive_link)
+
 ## Verksamhetsberättelser
 
 [Verksamhetsberättelse 2010](https://drive.google.com/open?id=11c-SOFPqGyTK475EndyV5L-NVb6wcQEb)
