@@ -105,6 +105,7 @@ Uppsala 24-25 november 2021.
 Tema: Ämnesdidaktiska perspektiv på språk och litteratur.
 Plenartalare: professor Päivi Juvonen, Linnéuniversitetet, professor emerita Caroline Liberg, Uppsala universitet, biträdande professor Stefan Lundström, Luleå tekniska universitet.
 [Konferensvolym](https://www.diva-portal.org/smash/get/diva2:1789403/FULLTEXT01.pdf)
+
 __Femtonde nationella konferensen i svenska med didaktisk inriktning (SMDI 15)__ 
 Lund 23–24 november 2022.
 Tema: Språk och litteratur – en omöjlig eller skön förening? 
