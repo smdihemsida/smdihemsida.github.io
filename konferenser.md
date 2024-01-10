@@ -3,9 +3,9 @@ layout: pages
 ---
 
 # Konferenser inom SMDI
-Den 15:e nationella konferensen i Svenska med didaktisk inriktning ägde rum i Lund 23–24 november 2022. Temat för konferensen var Språk och litteratur – en omöjlig eller skön förening? 
+Den 16:e nationella konferensen i Svenska med didaktisk inriktning äger rum i Luleå 26–28 november 2024. Temat för konferensen är Framtidens svenskämne – tradition och förnyelse.
+För aktuell information se konferensens [hemsida](https://www.ltu.se/research/subjects/Svenska-med-didaktisk-inriktning/Konferens-SMDI-2024)
 
-En ny nationell konferens kommer att äga rum i Luleå under hösten 2024.
 
 
 ## Tidigare konferenser
