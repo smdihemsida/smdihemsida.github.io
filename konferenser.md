@@ -3,9 +3,7 @@ layout: pages
 ---
 
 # Konferenser inom SMDI
-Den 16:e nationella konferensen i Svenska med didaktisk inriktning äger rum i Luleå 26–28 november 2024. Temat för konferensen är Framtidens svenskämne – tradition och förnyelse.
-För aktuell information se konferensens [hemsida](https://www.ltu.se/research/subjects/Svenska-med-didaktisk-inriktning/Konferens-SMDI-2024)
-
+Den 17:e nationella konferensen i Svenska med didaktisk inriktning äger rum i Uppsala 24–26 november 2026. Temat för konferensen är Röst och agentskap. För aktuell information se konferensens [hemsida](https://www.uu.se/institution/nordiska/forskning/seminarier-och-konferenser/konferenser/smdi17)
 
 
 ## Tidigare konferenser
@@ -110,4 +108,7 @@ __Femtonde nationella konferensen i svenska med didaktisk inriktning (SMDI 15)__
 Lund 23–24 november 2022.
 Tema: Språk och litteratur – en omöjlig eller skön förening? 
 Plenartalare: professor Jonas Bakken, Universitet i Oslo, professor Ylva Lindberg, Högskolan i Jönköping, professor Nikolaj Elf, Syddansk universitet.
+
+__Sextonde nationella konferensen i Svenska med didaktisk inriktning (SMDI 16)__
+Luleå 26–28 november 2024. Tema: Framtidens svenskämne – tradition och förnyelse. Plenartalare: professor Marte Blidstad-Balas, Universitetet i Olso, professor Carla Jonsson, Umeå universitet
 
