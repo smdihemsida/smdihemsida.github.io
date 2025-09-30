@@ -6,20 +6,20 @@ layout: pages
 
 I ledningen för nätverket SMDI finns en nätverksstyrelse. Inom nätverksstyrelsen finns också en ledningsgrupp, som sköter stora delar av det praktiska arbetet med nätverket. Nätverksstyrelsen håller årsmöte på våren samt har ett möte i samband med konferensen under höstterminen. SMDI är även en del av det nordiska nätverket för forskning i förstaspråksdidaktik, NNFF.
 
-## Värdar vid Luleå tekniska universitet, 2023-2024
+## Värd vid Uppsala universitet, 2025-2026
 
-* Caroline Graeske, caroline.graeske@ltu.se
-* Agnes Strandberg, agnes.strandberg@ltu.se 
+* Yvonne Hallesson, yvonne.hallesson@nordiska.uu.se
 
-## Nätverksstyrelse 2019–2020
+## Nätverksstyrelse 2025–2026
 
 * Helen Asklund, Mittuniversitetet
 * Caroline Graeske, Luleå tekniska universitet 
 * Yvonne Hallesson, Uppsala universitet
-* Carina Hermansson, Högskolan i Borås 
+* Carina Hermansson, Högskolan i Borås
+* Sofia Hort, Mälardalens universitet 
 * Annelie Johansson, Linnéuniversitetet
 * Maritha Johansson, Linköping universitet
-* Catharina Nyström Höög, Stockholms universitet
+* Stefan Norrthon, Stockholms universitet
 * Christina Olin-Scheller, Karlstads universitet
 * Ann-Christin Randahl, Göteborgs universitet 
 * Anders Sigrell, Lunds universitet
